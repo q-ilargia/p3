@@ -1,4 +1,5 @@
-# Sistema planetario
+# Sistema planetario ||Made by Javier Santana Álamo
+
 
 La práctica presentada a continuación consiste en un prototipo que muestra un sistema planetario en movimiento que incluye una
 estrella, cinco planetas y tres lunas, integrandon primitivas 3D, texto e imágenes.
